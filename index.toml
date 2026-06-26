@@ -116,6 +116,16 @@ hash = "76ad93c478cce7e8790ff1a76cf4a698c8f4d62c3a8cd383fcef3111def1113b"
 metafile = true
 
 [[files]]
+file = "mods/entity-model-features-3-2-4-1-21-neoforge.pw.toml"
+hash = "41f9da1b72985d30451eccd3a29a8a811eefe2558e8bf3966d5657f9662ed869"
+metafile = true
+
+[[files]]
+file = "mods/entity-texture-features-1-21-neoforge-7-1.pw.toml"
+hash = "84bacd241b83d47a0af2c6a52383764947a37f4375979fb00eac35e3af25a902"
+metafile = true
+
+[[files]]
 file = "mods/entityculling-neoforge-1-10-5-mc1-21-1.pw.toml"
 hash = "14f3b633d77ee2fb32038dc46904e7e86135f85fc2719ddb391c41ee954b682a"
 metafile = true
