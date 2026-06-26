@@ -1,6 +1,34 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/create-client.toml"
+hash = "16774bad3d5684a5ecfb6e9e9a8ca5c158fbc8bb3c97568af830be925e6d3d2a"
+
+[[files]]
+file = "config/create-common.toml"
+hash = "1c632f62c30f4e1223669267196d2ff1a2c03e400bf565ff4fe81e20c7cd2bdf"
+
+[[files]]
+file = "config/create-stuff-additions.toml"
+hash = "d6cb54312eaf10821b8fdbd0d07cb1f5bcce1c5fa26482495e3ca116e52718c1"
+
+[[files]]
+file = "config/entityculling.json"
+hash = "e92e6772c4b6ec28b9c179c80831d56d11fc65064591424a120133d397b2ab49"
+
+[[files]]
+file = "config/sable-client.toml"
+hash = "0dd32460fb2fc6a4e438784924c377f11ba416732be1daff68c951e2e197d42d"
+
+[[files]]
+file = "config/sable-common.toml"
+hash = "0614f722541191b6ddcfb686f97d5ea9a3280d32f8e0607c0d31dffe9a2dc5d7"
+
+[[files]]
+file = "config/xaerohud.txt"
+hash = "cece60604b8de5e978141c981c1ed85227c8f30697a513869012b06dd15fcf02"
+
+[[files]]
 file = "mods/appleskin-neoforge-mc1-21-3-0-9.pw.toml"
 hash = "a4c913e5820e6dbe2757d431483c3b163720918455c6738381df5a1107416b4f"
 metafile = true
