@@ -1,0 +1,15 @@
+{
+  "pack_url": "https://raw.githubusercontent.com/diamondino/neoforge-1-21-1/main/pack.toml",
+  "name": "Booger Aids 6",
+  "description": null,
+  "unsup": true,
+  "shared_by": "swzo",
+  "icon": null,
+  "banner": null,
+  "signing_key": null,
+  "news_url": null,
+  "playercount_url": null,
+  "min_memory_mb": null,
+  "max_memory_mb": null,
+  "jvm_args": null
+}

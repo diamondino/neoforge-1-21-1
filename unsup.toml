@@ -1,0 +1,48 @@
+[flavor_groups.shaders]
+name = "Shaders"
+description = "Downloads <b>Iris Shaders</b> + a bunch of popular shader packs"
+side = "both"
+
+[[flavor_groups.shaders.choices]]
+id = "enable"
+name = "Enable"
+description = "Download Iris + Shaders"
+
+[[flavor_groups.shaders.choices]]
+id = "disable"
+name = "Disable"
+description = "Fahh no my pc cant handle that shit"
+
+[flavor_groups.world_map_mini_map]
+name = "World Map + Mini Map"
+description = "Whether to Enable Xaeros world + minimap mods"
+side = "both"
+
+[[flavor_groups.world_map_mini_map.choices]]
+id = "enable_2"
+name = "Enable"
+
+[[flavor_groups.world_map_mini_map.choices]]
+id = "disable_2"
+name = "Disable"
+
+[metafile."/mods/iris-neoforge-1-8-14-beta-1-mc1-21-1.pw.toml"]
+flavors = ["enable"]
+
+[metafile."/mods/xaerominimap-neoforge-1-21-1-26-1-0.pw.toml"]
+flavors = ["enable_2"]
+
+[metafile."/mods/xaeroworldmap-neoforge-1-21-1-1-41-2.pw.toml"]
+flavors = ["enable_2"]
+
+[metafile."/shaderpacks/bliss-v2-1-2-chocapic13-shaders-edit.pw.toml"]
+flavors = ["enable"]
+
+[metafile."/shaderpacks/bsl-v10-1-3.pw.toml"]
+flavors = ["enable"]
+
+[metafile."/shaderpacks/complementaryreimagined-r5-8-1.pw.toml"]
+flavors = ["enable"]
+
+[metafile."/shaderpacks/photon-v1-3b.pw.toml"]
+flavors = ["enable"]

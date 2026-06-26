@@ -1,0 +1,1 @@
+https://brassworks.opnsoc.org/install?pack_url=https%3A%2F%2Fraw.githubusercontent.com%2Fdiamondino%2Fneoforge-1-21-1%2Fmain%2Fpack.toml&name=Booger+Aids+6&unsup=true&shared_by=swzo
