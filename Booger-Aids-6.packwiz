@@ -1,7 +1,7 @@
 {
   "pack_url": "https://raw.githubusercontent.com/diamondino/neoforge-1-21-1/main/pack.toml",
   "name": "Booger Aids 6",
-  "description": null,
+  "description": "The 2 Week Phase",
   "unsup": true,
   "shared_by": "swzo",
   "icon": null,
@@ -9,7 +9,9 @@
   "signing_key": null,
   "news_url": null,
   "playercount_url": null,
-  "min_memory_mb": null,
-  "max_memory_mb": null,
-  "jvm_args": null
+  "min_memory_mb": 500,
+  "max_memory_mb": 6144,
+  "jvm_args": [
+    "-XX:+UseG1GC -XX:+UnlockExperimentalVMOptions -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M"
+  ]
 }
