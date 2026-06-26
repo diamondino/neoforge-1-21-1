@@ -1,7 +1,7 @@
 [flavor_groups.shaders]
 name = "Shaders"
 description = "Downloads <b>Iris Shaders</b> + a bunch of popular shader packs"
-side = "both"
+side = "client"
 
 [[flavor_groups.shaders.choices]]
 id = "enable"
