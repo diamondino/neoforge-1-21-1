@@ -4,7 +4,7 @@
   "format": "packwiz",
   "pack_name": "Booger Aids 6",
   "author": "",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "selection": {
     "mods": [
       "mods/skinlayers3d-neoforge-1.11.2-mc1.21.1.jar",
@@ -141,21 +141,21 @@
       "mods/xaeroworldmap-neoforge-1.21.1-1.41.2.jar"
     ],
     "optional": {
-      "resourcepacks/FreshAnimations_v1.10.4.zip": {
-        "default": true,
-        "description": "Nicer Animations Resource Pack"
-      },
       "mods/skinlayers3d-neoforge-1.11.2-mc1.21.1.jar": {
         "default": true,
         "description": "Fancy 3D Skin Layers"
       },
-      "mods/Jade-1.21.1-NeoForge-15.10.5.jar": {
+      "resourcepacks/FreshAnimations_v1.10.4.zip": {
         "default": true,
-        "description": ""
+        "description": "Nicer Animations Resource Pack"
       },
       "mods/emi-1.1.24+1.21.1+neoforge.jar": {
         "default": true,
         "description": "Optional Improvement over JEI"
+      },
+      "mods/Jade-1.21.1-NeoForge-15.10.5.jar": {
+        "default": true,
+        "description": ""
       }
     },
     "flavor_groups": [
@@ -201,22 +201,22 @@
       }
     ],
     "flavor_assignments": {
-      "shaderpacks/BSL_v10.1.3.zip": [
-        "enable"
-      ],
       "mods/xaeroworldmap-neoforge-1.21.1-1.41.2.jar": [
         "enable_2"
       ],
-      "shaderpacks/Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip": [
-        "enable"
-      ],
-      "shaderpacks/ComplementaryReimagined_r5.8.1.zip": [
+      "shaderpacks/photon_v1.3b.zip": [
         "enable"
       ],
       "mods/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar": [
         "enable"
       ],
-      "shaderpacks/photon_v1.3b.zip": [
+      "shaderpacks/Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip": [
+        "enable"
+      ],
+      "shaderpacks/BSL_v10.1.3.zip": [
+        "enable"
+      ],
+      "shaderpacks/ComplementaryReimagined_r5.8.1.zip": [
         "enable"
       ],
       "mods/xaerominimap-neoforge-1.21.1-26.1.0.jar": [
@@ -224,7 +224,7 @@
       ]
     }
   },
-  "created_at": 1782563580,
+  "created_at": 1782563937,
   "unsup": true,
   "sign": true,
   "sign_format": "signify",
@@ -237,6 +237,7 @@
       "-XX:+UseG1GC -XX:+UnlockExperimentalVMOptions -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M"
     ],
     "news_url": null,
-    "playercount_url": null
+    "playercount_url": null,
+    "news": null
   }
 }
