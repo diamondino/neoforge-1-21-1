@@ -168,6 +168,11 @@ hash = "3b65f379bda60873e9bf9e28a6941bd2604380692079378767bd2237fa14cf92"
 metafile = true
 
 [[files]]
+file = "mods/fism-1-21-1-neoforge-1-0-5.pw.toml"
+hash = "ab176009c28c657ba3f805133a54b0b5472b9b8416e880722f80274123bfc8a2"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast-neoforge-1-6-10-1-21-1.pw.toml"
 hash = "6c4654690083959eb9f95cf52c0d715b17434e5a9ef9873dd843599ac339b726"
 metafile = true
@@ -175,6 +180,16 @@ metafile = true
 [[files]]
 file = "mods/interiors-1-21-1-neoforge-0-6-1.pw.toml"
 hash = "bb1882f0607681c2ad3dc85dc036234fe37dfaf4e86ed6f75909ed27247038da"
+metafile = true
+
+[[files]]
+file = "mods/iris-flywheel-compat-neoforge-2-4-0.pw.toml"
+hash = "b2e3adc2130736b3761373c889bc26cf7b339b34c5f74c3f9adf73a40c535381"
+metafile = true
+
+[[files]]
+file = "mods/iris-neoforge-1-8-14-beta-1-mc1-21-1.pw.toml"
+hash = "064f8ee970317106e1f36f32f4bb412b45d87a3e5ecfedb90f06b899e6952454"
 metafile = true
 
 [[files]]
@@ -305,4 +320,34 @@ metafile = true
 [[files]]
 file = "resourcepacks/sodiumtranslations.pw.toml"
 hash = "1985ad7882647eb1bba7abed1d9c2a4904adbb0e1ca865028bb13aa42f51e5d3"
+metafile = true
+
+[[files]]
+file = "shaderpacks/bliss-v2-1-2-chocapic13-shaders-edit.pw.toml"
+hash = "01b82831ff92721bb1c045170cc292cfffff49e0d909b3e0fdf63d7d4d8f646a"
+metafile = true
+
+[[files]]
+file = "shaderpacks/bsl-v10-1-3.pw.toml"
+hash = "08ca400ac93816171bf04a0f8a8ef7ecc6d2e95ca57525c9de3b5b1465391e6e"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementaryreimagined-r5-8-1.pw.toml"
+hash = "716f0c4ae3c474437dfd161c8ccc68a1f2420118339e9b777864c895b78e7c4c"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementaryunbound-r5-8-1.pw.toml"
+hash = "b0dd17cdbb1494456277319a284cbc9f73fdcb1839564bcc3baf915010dc098e"
+metafile = true
+
+[[files]]
+file = "shaderpacks/photon-v1-3b.pw.toml"
+hash = "11955616ba60fca9a87885d9d955c220b7268b7b1e8bf8709c02a90605c48f1d"
+metafile = true
+
+[[files]]
+file = "shaderpacks/rethinking-voxels-r0-1-beta9.pw.toml"
+hash = "41eef0eaeadcb8c3f0f6b705a281c8e1a67a6f86b0de4c0c08e551f3445f9319"
 metafile = true
