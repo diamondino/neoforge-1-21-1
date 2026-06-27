@@ -1,12 +1,17 @@
-<img src="./icon.png" align="left" width="96" height="96" alt="" />
+<p align="center">
+  <img src="./icon.png" width="96" height="96" alt="Booger Aids 6 icon" />
+</p>
 
-# Booger Aids 6
+<h1 align="center">Booger Aids 6</h1>
 
-A **NeoForge 1.21.1** Minecraft modpack, shared with the [Brassworks Launcher](https://github.com/brassworks-smp).
+<p align="center">
+  A <strong>NeoForge 1.21.1</strong> Minecraft modpack, shared with the
+  <a href="https://github.com/brassworks-smp">Brassworks Launcher</a>.
+</p>
 
-Put together and shared by **Swzo**.
-
-<br clear="left"/>
+<p align="center">
+  Put together and shared by <strong>Swzo</strong>.
+</p>
 
 ## Play this pack
 

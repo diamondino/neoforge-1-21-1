@@ -11,7 +11,7 @@ description = "Download Iris + Shaders"
 [[flavor_groups.shaders.choices]]
 id = "disable"
 name = "Disable"
-description = "Fahh no my pc cant handle that shit"
+description = "Fahh no my pc cant handle that shit."
 
 [flavor_groups.world_map_mini_map]
 name = "World Map + Mini Map"
