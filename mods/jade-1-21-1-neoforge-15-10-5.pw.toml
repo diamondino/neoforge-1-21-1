@@ -14,4 +14,3 @@ version = "yd8FKCmx"
 [option]
 optional = true
 default = true
-description = "See what you are looking at..."
