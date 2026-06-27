@@ -1,12 +1,12 @@
 name = "Booger Aids 6"
 author = "Swzo"
-version = "1.0.6"
+version = "1.0.7"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "60e9c7fd99845c1d596b8517349fe984e419b8a5ab283867bce1094657451a9b"
+hash = "85ba4d489e233de2904951ae289c603f77057a281e348b06519788cb6edfd27e"
 
 [versions]
 minecraft = "1.21.1"

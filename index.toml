@@ -178,11 +178,6 @@ hash = "bb1882f0607681c2ad3dc85dc036234fe37dfaf4e86ed6f75909ed27247038da"
 metafile = true
 
 [[files]]
-file = "mods/iris-neoforge-1-8-14-beta-1-mc1-21-1.pw.toml"
-hash = "064f8ee970317106e1f36f32f4bb412b45d87a3e5ecfedb90f06b899e6952454"
-metafile = true
-
-[[files]]
 file = "mods/jade-1-21-1-neoforge-15-10-5.pw.toml"
 hash = "fea7130599ec06004efd41f5ae59c9faf0cf6b3e44dd4e53a3e34c704617c33e"
 metafile = true
@@ -310,24 +305,4 @@ metafile = true
 [[files]]
 file = "resourcepacks/sodiumtranslations.pw.toml"
 hash = "1985ad7882647eb1bba7abed1d9c2a4904adbb0e1ca865028bb13aa42f51e5d3"
-metafile = true
-
-[[files]]
-file = "shaderpacks/bliss-v2-1-2-chocapic13-shaders-edit.pw.toml"
-hash = "01b82831ff92721bb1c045170cc292cfffff49e0d909b3e0fdf63d7d4d8f646a"
-metafile = true
-
-[[files]]
-file = "shaderpacks/bsl-v10-1-3.pw.toml"
-hash = "08ca400ac93816171bf04a0f8a8ef7ecc6d2e95ca57525c9de3b5b1465391e6e"
-metafile = true
-
-[[files]]
-file = "shaderpacks/complementaryreimagined-r5-8-1.pw.toml"
-hash = "716f0c4ae3c474437dfd161c8ccc68a1f2420118339e9b777864c895b78e7c4c"
-metafile = true
-
-[[files]]
-file = "shaderpacks/photon-v1-3b.pw.toml"
-hash = "11955616ba60fca9a87885d9d955c220b7268b7b1e8bf8709c02a90605c48f1d"
 metafile = true

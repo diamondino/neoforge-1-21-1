@@ -6,7 +6,7 @@
   "shared_by": "Swzo",
   "icon": "https://raw.githubusercontent.com/diamondino/neoforge-1-21-1/main/icon.png",
   "banner": null,
-  "signing_key": "signify RWSH+s0iEviqCotOafHFA3gjB/JwoVeakARnWiaClgTWNJSrgn7Gr5yZ",
+  "signing_key": null,
   "news_url": null,
   "playercount_url": null,
   "min_memory_mb": 512,

@@ -15,7 +15,7 @@
 
 ## Play this pack
 
-The quickest way is one click: open [this install link](https://brassworks.opnsoc.org/install?pack_url=https%3A%2F%2Fraw.githubusercontent.com%2Fdiamondino%2Fneoforge-1-21-1%2Fmain%2Fpack.toml&name=Booger+Aids+6&unsup=true&shared_by=Swzo&signing_key=signify+RWSH%2Bs0iEviqCotOafHFA3gjB%2FJwoVeakARnWiaClgTWNJSrgn7Gr5yZ&icon=https%3A%2F%2Fraw.githubusercontent.com%2Fdiamondino%2Fneoforge-1-21-1%2Fmain%2Ficon.png&description=The+Booger+Aids+6&min_memory_mb=512&max_memory_mb=6144&jvm_args=-XX%3A%2BUseG1GC+-XX%3A%2BUnlockExperimentalVMOptions+-XX%3AG1NewSizePercent%3D20+-XX%3AG1ReservePercent%3D20+-XX%3AMaxGCPauseMillis%3D50+-XX%3AG1HeapRegionSize%3D32M) and Brassworks sets everything up for you, then keeps it up to date on its own.
+The quickest way is one click: open [this install link](https://brassworks.opnsoc.org/install?pack_url=https%3A%2F%2Fraw.githubusercontent.com%2Fdiamondino%2Fneoforge-1-21-1%2Fmain%2Fpack.toml&name=Booger+Aids+6&unsup=true&shared_by=Swzo&icon=https%3A%2F%2Fraw.githubusercontent.com%2Fdiamondino%2Fneoforge-1-21-1%2Fmain%2Ficon.png&description=The+Booger+Aids+6&min_memory_mb=512&max_memory_mb=6144&jvm_args=-XX%3A%2BUseG1GC+-XX%3A%2BUnlockExperimentalVMOptions+-XX%3AG1NewSizePercent%3D20+-XX%3AG1ReservePercent%3D20+-XX%3AMaxGCPauseMillis%3D50+-XX%3AG1HeapRegionSize%3D32M) and Brassworks sets everything up for you, then keeps it up to date on its own.
 
 Rather do it by hand? Install the [Brassworks Launcher](https://github.com/brassworks-smp), choose **Add Instance**, pick **packwiz**, and paste in this manifest URL:
 
